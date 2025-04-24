@@ -1,13 +1,20 @@
-🧩 Projeto Web API 
-Este é um projeto de API RESTful desenvolvida com ASP.NET Core e Entity Framework Core, utilizando o padrão de arquitetura MVC. 
-Ele serve como base para aplicações backend com autenticação, controle de dados, e conexão com banco de dados SQL Server.
+📚 Projeto-WEBAPI - Sistema de Biblioteca: é uma API RESTful construída com ASP.NET Core e Entity Framework Core, projetada para gerenciar uma biblioteca. A aplicação oferece controle completo sobre livros, membros, empréstimos, reservas, categorias, funcionários e autenticação de usuários.
 
+🚀 Funcionalidades:
+📦 Categorias de livros (CRUD)
+📘 Cadastro de Livros
+👥 Gestão de Membros e Funcionários
+🔄 Controle de Empréstimos e Devoluções
+📅 Sistema de Reservas de Livros
+🔐 Autenticação com JWT
+📑 Uso de DTOs para separação da lógica de apresentação
+🧾 Documentação via Swagger
 
-💻 Tecnologias Utilizadas
-- ASP.NET Core
+🧰 Tecnologias Utilizadas 
+- ASP.NET Core Web API
 - C#
 - Entity Framework Core
 - SQL Server
-- Padrão MVC + Repositório
-
+- Swagger (Swashbuckle)
+- JWT para autenticação
 
